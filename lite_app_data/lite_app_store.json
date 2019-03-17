@@ -1,0 +1,819 @@
+{
+    "data": [
+        {
+            "apps": [
+                {
+                    "_id": "Fllcb6cjwWnbdbEK59",
+                    "category": "Popular",
+                    "icon": "https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Facebook",
+                    "primary_color": "#FF4267B2",
+                    "splash_icon": "",
+                    "url": "https://m.facebook.com"
+                },
+                {
+                    "_id": "mtiAc9ALLzvyKsMxah",
+                    "category": "Popular",
+                    "icon": "https://lh3.googleusercontent.com/32GbAQWrubLZX4mVPClpLN0fRbAd3ru5BefccDAj7nKD8vz-_NzJ1ph_4WMYNefp3A=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Twitter",
+                    "primary_color": "#FF1CA1F2",
+                    "splash_icon": "",
+                    "url": "https://mobile.twitter.com"
+                },
+                {
+                    "_id": "K4UyhtzFYqWWbBFyz8",
+                    "category": "Popular",
+                    "icon": "https://lh3.googleusercontent.com/aYbdIM1abwyVSUZLDKoE0CDZGRhlkpsaPOg9tNnBktUQYsXflwknnOn2Ge1Yr7rImGk=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Instagram",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.instagram.com"
+                },
+                {
+                    "_id": "dZ2OFUkrRwudGzjTYz",
+                    "category": "Popular",
+                    "icon": "https://lh3.googleusercontent.com/Iip-8Yn3PLAzecCMb4ZaHTvFObl3ETUWZmd5zLflhbB6BXKyNc5aM4hrGAA9NXSs7i0=s180-rw",
+                    "is_pwa": 0,
+                    "label": "BBC",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www/bbc.com"
+                },
+                {
+                    "_id": "3qt4dCRZFaw91l9RFo",
+                    "category": "Popular",
+                    "icon": "https://lh3.ggpht.com/m05SBF4omSJbBy-EnPClGH_yAVvgAn6wr6KQwdtXhn6ATylzMYYJb6WaW-pNbtmqg5I=s180-rw",
+                    "is_pwa": 0,
+                    "label": "CNN",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.cnn.com"
+                },
+                {
+                    "_id": "YBkzNRydaD4BisS6sQ",
+                    "category": "Popular",
+                    "icon": "https://lh3.googleusercontent.com/MoNaQ-EoeeYQG2SxATYWOhrZF0cxdx9Qc0rTGEWquhfBDvIlqQRu29kN7gjIysHx1yuc=s180-rw",
+                    "is_pwa": 0,
+                    "label": "New York Times",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://nytimes.com"
+                },
+                {
+                    "_id": "YGIEAWbr7moS1HsY0O",
+                    "category": "Popular",
+                    "icon": "",
+                    "is_pwa": "",
+                    "label": "",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": ""
+                }
+            ],
+            "category": "Popular"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "hZLyxLPthqienQ0Lbe",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Facebook",
+                    "primary_color": "#FF4267B2",
+                    "splash_icon": "",
+                    "url": "https://m.facebook.com"
+                },
+                {
+                    "_id": "hQAjAwjalxvlR5VVqs",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/aYbdIM1abwyVSUZLDKoE0CDZGRhlkpsaPOg9tNnBktUQYsXflwknnOn2Ge1Yr7rImGk=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Instagram",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.instagram.com"
+                },
+                {
+                    "_id": "e1aBdXtqUVRE2Xeb39",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/32GbAQWrubLZX4mVPClpLN0fRbAd3ru5BefccDAj7nKD8vz-_NzJ1ph_4WMYNefp3A=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Twitter",
+                    "primary_color": "#FF1CA1F2",
+                    "splash_icon": "",
+                    "url": "https://mobile.twitter.com"
+                },
+                {
+                    "_id": "BeIvkm9yraElzurwVl",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/ilIajkgHAcLvx2pxP7pc7ul4EofI0EJRpx02a1X8TRRs04EHd_lmKrdj7x2ja-f3zw=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Tumblr",
+                    "primary_color": "#FF36465D",
+                    "splash_icon": "",
+                    "url": "https://www.tumblr.com/dashboard"
+                },
+                {
+                    "_id": "23EOS9lkSsL5CaKZPX",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/jVXglyWWL5J2y1vRN-7Jy3_ozvvZc4w5486IAkbAIrWcNN_vn7YuIvhc1JDtGq43BqGl=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Telegram",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://web.telegram.org"
+                },
+                {
+                    "_id": "SY7WXTGOMY6F2RFtJ8",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/stlBGKS482zWajOTk82IXFZhr22hk_NQewNOAJ0IeptPO73qfNesCyfNwW1-xwBiwv0=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Tinder",
+                    "primary_color": "#FFFE5567",
+                    "splash_icon": "",
+                    "url": "https://www.gotinder.com"
+                },
+                {
+                    "_id": "hJyDBO0lsOnbAq6Tgp",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/kCIkf0zJ_dkgnQswoAESMEgGUJcpzdl-n_9C1J0yE7ZSSwBwQQLR31lycvGtHw0CINI=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Emojityper",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://emojityper.com"
+                },
+                {
+                    "_id": "Zuxd4Gq7e3M9V2Al1Q",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/uOjFCUkQ4w56akZTg_AAGYsyiFd1UB3-Rd8KYDoiIpD05VzkTz647PO3B_2v9sPg2BM=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Pinterest",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.pinterest.com/"
+                },
+                {
+                    "_id": "srlDIhT9j5NCgYvNCl",
+                    "category": "Social",
+                    "icon": "https://lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Linkedin",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://linkedin.com"
+                }
+            ],
+            "category": "Social"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "bpKHd7OZy2ZHMxOnVe",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/Z5WroTW4KmTB3mvUhZMLwgFD2VymNypnEVVxoueXPPCKEFrnUAiZVl0684t1RFEOPqzB=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Flipboard",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://flipboard.com/"
+                },
+                {
+                    "_id": "m6ROfR7dAcihBTFYvg",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/vKfEYq1gqPMEOo3i07YsU5-5T6AqPDkwazwMaoDXqurK_-1PtEbk3nrB6oRZt4PxPAnh=s180-rw",
+                    "is_pwa": 1,
+                    "label": "The Guardian",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://theguardian.com/uk"
+                },
+                {
+                    "_id": "qzxSyM3NjwYBTemWMR",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/r-yyb3SfVQm6K73DbtKTwOKOTUwBrjhR1oxv7yH0QcPfxrAbZqCGrZzeWWbHsT2Pf6IA=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Bloomberg",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.bloomberg.com/"
+                },
+                {
+                    "_id": "d0GLWompkwimCbyqB4",
+                    "category": "News",
+                    "icon": "https://lh3.ggpht.com/m05SBF4omSJbBy-EnPClGH_yAVvgAn6wr6KQwdtXhn6ATylzMYYJb6WaW-pNbtmqg5I=s180-rw",
+                    "is_pwa": 0,
+                    "label": "CNN",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.cnn.com"
+                },
+                {
+                    "_id": "Pi6R2Xva5WKJuIYQm3",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/Iip-8Yn3PLAzecCMb4ZaHTvFObl3ETUWZmd5zLflhbB6BXKyNc5aM4hrGAA9NXSs7i0=s180-rw",
+                    "is_pwa": 0,
+                    "label": "BBC",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www/bbc.com"
+                },
+                {
+                    "_id": "r41o5YPmSwhWp865PQ",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/MoNaQ-EoeeYQG2SxATYWOhrZF0cxdx9Qc0rTGEWquhfBDvIlqQRu29kN7gjIysHx1yuc=s180-rw",
+                    "is_pwa": 0,
+                    "label": "New York Times",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://nytimes.com"
+                },
+                {
+                    "_id": "zHrZPMooIQOZPvyMn3",
+                    "category": "News",
+                    "icon": "https://lh3.ggpht.com/5wzR5Tsj5fQ4Igs1R1HMBep99ufDzMr0028lxn2Ji4GTidrwwMM5D74JvGE6nmH6OcKH=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Washington Post",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://m.washingtonpost.com"
+                },
+                {
+                    "_id": "7oKsovnvegTBZnJTJM",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/RBB_lilvZBngYjPRNXqnh_F6GxHZvPWRPBHQd86AZppO3LDDK_eYgnC60K3BoyUAbSE=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Google News",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://news.google.com"
+                },
+                {
+                    "_id": "Kbc8Fq0k9DM02gqyp8",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/Y7IfG727kjMUzjO9-F2GR6-k31G0kyXd12ld8ctvbpdixUQmY2G6av-dTw87lEhEcQk=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Wall St. Journal",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://mobile.wsj.com"
+                },
+                {
+                    "_id": "EgEVgNnf7P0goDSw40",
+                    "category": "News",
+                    "icon": "https://lh3.ggpht.com/dTFTNAPcPpdd52VjidAJX7N8WYS6KuZ01l2NoXHF01iSTzLZLJ5ng-HEeuy8vCYL5DU=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Yahoo! Finance",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://finance.yahoo.com"
+                },
+                {
+                    "_id": "kMR5jiPefZ2OAlwVIG",
+                    "category": "News",
+                    "icon": "https://lh3.googleusercontent.com/ygazxlwV00_yT1bg2Yi1MthMjPMPe9XbA2AxZb9iL9N85vA2QcQ-vzqYRD19TVyEgoXG=s180-rw",
+                    "is_pwa": 0,
+                    "label": "The Hindu",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://thehindu.com"
+                }
+            ],
+            "category": "News"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "rE8Eh59hDx1beofdBJ",
+                    "category": "Sports",
+                    "icon": "https://lh3.googleusercontent.com/0LSIgVSL7TUzOMkWBzOI1L5MCpPLOOndeZzml0s0q3NjQ6K3GmbkgscGE7Vd2gcbNoJ-=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Premier League",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.premierleague.com/"
+                },
+                {
+                    "_id": "zEqfMUSnzXVfhNJWML",
+                    "category": "Sports",
+                    "icon": "https://lh3.googleusercontent.com/Yr22dKNZne1-_NoYb9avNn9wCMxi_4gc2HUKbSWPoX7Ma65CN0HnM4Dbe-oY6L6m8-4=s180-rw",
+                    "is_pwa": 0,
+                    "label": "ESPN",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "http:www.espn.com"
+                },
+                {
+                    "_id": "aCDR3hsjt567TsuuTJ",
+                    "category": "Sports",
+                    "icon": "https://lh3.googleusercontent.com/zIQbKGUjfZMJo8xdZrqpS6cMd8AO6Nq0_CvEfTRbavC6oKtUrdPU-B-zbz2HE7_VEMY=s180-rw",
+                    "is_pwa": 0,
+                    "label": "NFL",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://nfl.com"
+                },
+                {
+                    "_id": "L7gbYHbikkqFDAZ4Ba",
+                    "category": "Sports",
+                    "icon": "https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=s180-rw",
+                    "is_pwa": 0,
+                    "label": "NHL",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://nhl.com"
+                }
+            ],
+            "category": "Sports"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "BKpzzIOc9SviiesiUN",
+                    "category": "Finance",
+                    "icon": "https://lh3.googleusercontent.com/QZwQshUIUQQgI9E7bC7bWPdoMViEcrQld2a9-9S8nvyrBW0Szt-G_x7pU4dJpvb0Dm8=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Financial Times",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://app.ft.com/"
+                },
+                {
+                    "_id": "Wyho9MgNWENIT0f9PH",
+                    "category": "Finance",
+                    "icon": "https://lh3.googleusercontent.com/WMdCinrElScx2Crk6n-cA7_MB8FEitQoNHKQxN8PEAeEzWdE6VHirgj70nKYavUfhrI=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Currency Converter",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://currency-x.com/"
+                },
+                {
+                    "_id": "LOxGoz5JNeL9Uctmha",
+                    "category": "Finance",
+                    "icon": "https://lh3.googleusercontent.com/TA8TqYpRe77mzU0CjbzwZyN1iEhRlN6LpyLINQxKiwwzrdWvlGkcCPS4Q42PsGBmvsjY=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Paytm Lite",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://paytm.com/"
+                }
+            ],
+            "category": "Finance"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "HFytrTMj1pn8IEtkWc",
+                    "category": "Email",
+                    "icon": "https://lh3.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Gmail",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://mail.google.com"
+                },
+                {
+                    "_id": "6az4K6uLV33SJpvQEd",
+                    "category": "Email",
+                    "icon": "https://lh3.googleusercontent.com/_dV47s6VeBkiBjbhZ5kXlgzsDWb4c_6IMn6w65_Cy9aXhbEraf_5cJjM9j6vdO4I52k=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Yahoo! Mail",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://mail.yahoo.com"
+                },
+                {
+                    "_id": "UDtCBOFiEt1DovIRPV",
+                    "category": "Email",
+                    "icon": "https://lh3.googleusercontent.com/_gpQ5T1jLbbpyoaDHgYoJV_seHudPYAqfYe7me5MApKMYUuY91E_h6y3Jy_Cxe8OO8E=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Outlook",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://outlook.com"
+                },
+                {
+                    "_id": "P00bWgfspXvYvwmvQU",
+                    "category": "Email",
+                    "icon": "https://lh3.ggpht.com/ihMfn7IEU7EvPJE1IkL2p3z6Ody_hhYJEl08rFev0zuFBeLdGzj1WxR3TxnHVl40x9Nz=s180-rw",
+                    "is_pwa": 0,
+                    "label": "FastMail",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://fastmail.com"
+                }
+            ],
+            "category": "Email"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "dgoLUCaqL4UTq0oA9W",
+                    "category": "Travel",
+                    "icon": "https://lh3.googleusercontent.com/nTcQY6kRL6TgNQu4NSG0eBLQGDTTVj2-YOVyA71LFOuePtx057oSmt_xiObOrKdXMlg=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Uber",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://m.uber.com/"
+                },
+                {
+                    "_id": "HF8wPWR1G78xpaUFrd",
+                    "category": "Travel",
+                    "icon": "https://lh3.googleusercontent.com/ib_oiSoBDQ7VrjgTn_LQPlNNO-OKZiDfYIe4_TFra7gXFGIxeOFnE7regz27YkWXgw=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Rentcars.com",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://m.rentcars.com/"
+                },
+                {
+                    "_id": "vynS4QbdaAhlIo15nQ",
+                    "category": "Travel",
+                    "icon": "https://lh3.googleusercontent.com/8cQHdCTzkaKh7hKbdruAG7VHULNAHiwSSu21A8wZGnNWkWTOgOVFoIkh3caWs5v3lno=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Lyft",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.lyft.com/"
+                },
+                {
+                    "_id": "xyVumR9q44VGzPcZsC",
+                    "category": "Travel",
+                    "icon": "https://lh3.googleusercontent.com/xmZuOCh0e0NeVpgsKn99K5Amo4PA2r5y078RIrvXY24zLAEwSLSwYvVcwT7zWSv512n4=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Maps Go",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.google.com/maps"
+                },
+                {
+                    "_id": "3Icokx60Fa7UXf6kOP",
+                    "category": "Travel",
+                    "icon": "https://lh3.googleusercontent.com/BQnvuZR500pg2ulvv3FBmRI93ODz3AjNfbz92hCieuJLvmbGY36AKhETMTTfTDgpPQI=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Airbnb",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.airbnb.com/"
+                },
+                {
+                    "_id": "PN6p9Eaa6z61NtaNSH",
+                    "category": "Travel",
+                    "icon": "https://lh3.ggpht.com/LpnuxHP4_Nc5U-kqZd4NE1f4QwkrCpkbU_B5qmj-2BxtvBuChlldCLnAKigAAOuyAK4=s180-rw",
+                    "is_pwa": 1,
+                    "label": "redBus Easy",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://m.redbus.pe/"
+                },
+                {
+                    "_id": "lc41LVJRnAcGvvuKIY",
+                    "category": "Travel",
+                    "icon": "https://lh3.googleusercontent.com/YvsK2tYuK09I5b8c8AlKJcrsDBLCFoRAJ5D8bzf_djVGodH_nxFL46mjNsVpkbk9OOU=s180-rw",
+                    "is_pwa": 1,
+                    "label": "OYO - Online Hotel Booking",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.oyorooms.com/"
+                },
+                {
+                    "_id": "8Wyr1JJiC0BS9MWBj1",
+                    "category": "Travel",
+                    "icon": "https://lh3.ggpht.com/XW9zUNdttgpfgcruiYgrjw5FGrStBfftIY0SBo10Nbp4HuCIDq6KJVEQOc66TZ31dg=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Marine Compass",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://sensor-compass.appspot.com/"
+                }
+            ],
+            "category": "Travel"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "vyXPZ9EverqVOFelq6",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/3Xs5ShIZ-USXqRSFlfwWfu_g2w7_7GAirkp5Z25lHxftQj9np4OpA6C-oojT2BSENE4=s180-rw",
+                    "is_pwa": 1,
+                    "label": "AliExpress",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://m.aliexpress.com/"
+                },
+                {
+                    "_id": "tw98BLrFXCGDsS2luA",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/qp_vJ3TyQ3uwhl5gNyfg013mcbBGHWdBqbsxE3rljTiFHSX9tTrBdv5MIJ8MXsHJRlys=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Letgo",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://www.letgo.cz/"
+                },
+                {
+                    "_id": "W37xAzbOlpnpNarY6j",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/m0cCzGaDHGBaKsiE_TzURg0bpuFGvfcDKrZFSwPKDV_fPLN5YpK-cJJJw9bzCDc08w=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Purplle Lite",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://purplle.com/"
+                },
+                {
+                    "_id": "gS4JKII15HYKaPbbgu",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/u6j1542q7JZ7CW-TQxrF69JV6yZn9vvKXqxngO6j6P7hTkpkUZAc5u6Mewb9P6X2fw=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Limeroad lite",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://limeroad.com/"
+                },
+                {
+                    "_id": "4SiNmlVWLMnvguKSrV",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/R1RBGNjL7FQRljPi_UOyA5IX5NgRpWa6xQb4xS7B9DOmqR0P14GlFcqlhCd72EYzonB7=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Snapdeal",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://snapdeal.com/"
+                },
+                {
+                    "_id": "4Le0AgSP8y1zabYwAs",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/Pzhl8z9sJAQk8e1ZiL_XnX3WZPEminhbw5I0S5nrqmTtzdbzb1TCydGZJ9FoUmlD_WjO=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Amazon",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://amazon.com"
+                },
+                {
+                    "_id": "IzWuGWHhTJKtP6vpYo",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/REVWVIfDnMlClUnFat1qgVljxhvFxd2azTIIH2sPSmLZI-1KTonBD8niz8fh7pg4WX9U=s180-rw",
+                    "is_pwa": 0,
+                    "label": "FlipKart",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://flipkart.com"
+                },
+                {
+                    "_id": "Lz8qQkYO2lbFmKDvAl",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/1IExlQs-2BW3oKwDYb7k1uoWD5b6CWQnCHrxoqBjYI3IInBAHVb6nAQjEzXHd899nA=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Ebay",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://ebay.com"
+                },
+                {
+                    "_id": "Dg2n2OuN2X1gy0EIn0",
+                    "category": "Shopping",
+                    "icon": "https://lh3.googleusercontent.com/9qthLbTPNdS6WiEzRvwTKadyvdoBl7B3BOz2VwQxH1IX6HGaZzcCBibQ_L8DSyvHaCo=s180-rw",
+                    "is_pwa": 0,
+                    "label": "CVS",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://cvs.com"
+                }
+            ],
+            "category": "Shopping"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "dDGK78gDNtIgCzXGWT",
+                    "category": "Photos&Video",
+                    "icon": "https://lh3.googleusercontent.com/TI_HoC8FifuhDdZVRsZOSeT95kumLd0CU_yhdBCG8HuIPR3Jnh962Q72NnWsz425lg=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Google Photos",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://photos.google.com/"
+                },
+                {
+                    "_id": "24SOGKYrQQgbNTjK0U",
+                    "category": "Photos&Video",
+                    "icon": "https://lh3.googleusercontent.com/IsdYGrYewNGmzw_IdpBjBOw1YudZTyAYMs8k3t0IphMId3SubbiT0RAdG9rJw2Q9sB8=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Giphy",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://giphy.com"
+                },
+                {
+                    "_id": "eS4p5hfFXBr8kPAs7m",
+                    "category": "Photos&Video",
+                    "icon": "https://lh3.ggpht.com/JNba5eiZjaaS7SxI3uBoEnW9PQtD5paoHest5KO2KW2GDHIaEqaUPvFsuylTNxkeeA=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Flickr",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://flickr.com"
+                }
+            ],
+            "category": "Photos&Video"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "9GGmxCDuTjI85ZVhYm",
+                    "category": "Music",
+                    "icon": "https://lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Spotify",
+                    "primary_color": "#FF000000",
+                    "splash_icon": "",
+                    "url": "https://open.spotify.com/"
+                },
+                {
+                    "_id": "b1s7ROVfNoztedHeJs",
+                    "category": "Music",
+                    "icon": "https://lh3.googleusercontent.com/5tzkeZXfQP1Y8tc1oltyHntqMUraoyrqyxVaO2gbCvMezZRSwFUgf2NBMvszXZT-KGY=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Guitar Tuner",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://guitar-tuner.appspot.com"
+                },
+                {
+                    "_id": "yt4I7ag96NGKUVRNnG",
+                    "category": "Music",
+                    "icon": "https://lh3.googleusercontent.com/21IODgGSkgLHEazVJUYpjbz2wCIgLwPc6edrXQlV25m8yFvBK_j6JdIFQFw5niS93Q=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Last.fm",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://last.fm"
+                }
+            ],
+            "category": "Music"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "Ozien2iiAlkTQaN01L",
+                    "category": "Food",
+                    "icon": "https://lh3.ggpht.com/F0F4Z965uf3psiHu5h77e-8o-Yla68BEaJI8xLfK-V3JkMK4yQv1WLqqZQCwYhDevKoa=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Yelp",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https:m.yelp/com"
+                },
+                {
+                    "_id": "pP82ZyKU2FLeuvLtEz",
+                    "category": "Food",
+                    "icon": "https://lh3.ggpht.com/lq8cpjtN3gErseV08nIJYLCOzGnYkFI4FK7pztzHv3ETUK94kzA3psdPusx_IPMlOL6V=s180-rw",
+                    "is_pwa": 0,
+                    "label": "Yummly",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://yummly.com"
+                }
+            ],
+            "category": "Food"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "cYvIc0s4a8kUo1dA87",
+                    "category": "Utilities",
+                    "icon": "https://lh3.googleusercontent.com/9AguJBN2XF7GJg5sOF6uZMsxhWaqIxGrMZcKee4OReL83ZraLM-25Wzk6SX3THP5NuXF=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Simple Todo App",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://todo.haskai.de/"
+                },
+                {
+                    "_id": "uJ1rcreNm8wJpSku4O",
+                    "category": "Utilities",
+                    "icon": "https://lh3.googleusercontent.com/zFFtThUAWjJig-TIbOBkLa472tC9x6MTeo_wZJA3SIHt9y9L6FZwVenONyHapUGIG88=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Battery Status Progressive Web App",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://irekrog.github.io/battery-status-progressive-web-app/"
+                },
+                {
+                    "_id": "DJIXcHuyN8BkxH6PHh",
+                    "category": "Utilities",
+                    "icon": "https://lh3.googleusercontent.com/fPysOfCERB5QpZCLpWxRxp4nG_qxK2sg51cfVxP20BCyWgft5EKblU0_cc5MHHauQcQ=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Calculator",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://calculator.tooo.io/"
+                },
+                {
+                    "_id": "m6ArKPYfKdpg44BJH6",
+                    "category": "Utilities",
+                    "icon": "https://lh3.ggpht.com/ufwUy4SGVTqCs8fcp6Ajxfpae0bNImN1Rq2cXUjWI7jlmNMCsXgQE5C3yUEzBu5Gadkz=s180-rw",
+                    "is_pwa": 1,
+                    "label": "QR Code Scanner",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://qrcodescan.in/"
+                },
+                {
+                    "_id": "ihA3bT8YsN2QFC3BhX",
+                    "category": "Utilities",
+                    "icon": "https://lh3.ggpht.com/-hOjcEUUxjUKT938jnAHidJnazqVgIUAEvjfbGZEhdeN-EsM3ifhH0R-M7msFVH-js8=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Polytimer",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://polytimer.rocks/"
+                },
+                {
+                    "_id": "nXFfANXeRE8kWmXy9j",
+                    "category": "Utilities",
+                    "icon": "https://lh3.googleusercontent.com/RLX6TAbjZzLTNv9VRzG2u66H5br4ZTWDIhluVpOW2JkJ361hR051B_FBzCgznZwbjKf0=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Notepad",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://amitmerchant.com/notepad"
+                },
+                {
+                    "_id": "d4T8K2MHwKPKDOjrFq",
+                    "category": "Utilities",
+                    "icon": "https://lh3.ggpht.com/IDOtRhsZLSG3EFxWxmWREMPa42_SNQvl9-x4FBu5dn9aJMjpVtMx_GoNdnQwEIp_7gsV=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Notes",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://sii.im/playground/notes"
+                },
+                {
+                    "_id": "dT0aK2rr9dwfqnSbAm",
+                    "category": "Utilities",
+                    "icon": "https://lh3.googleusercontent.com/_lfse9EPfzk1Og2iSQakKTJQH96sRFf0RfzbnDTdqDwtLlugPOMK1zubev83_20_pVU=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Time Calculator",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://time-calc.digitalkaoz.net/"
+                },
+                {
+                    "_id": "onn4QM55kerO7dwEd5",
+                    "category": "Utilities",
+                    "icon": "https://lh3.googleusercontent.com/8U6u6n4A2NfJ1mVY3TY16X2iZGYK8cHNkwsU-Pts2z2QCxTKBuZbrrO09oQB1ND38g=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Habitory",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://habitory.com/app"
+                }
+            ],
+            "category": "Utilities"
+        },
+        {
+            "apps": [
+                {
+                    "_id": "EzG9hyKwdfqLKKfmE5",
+                    "category": "Health&Fitness",
+                    "icon": "https://lh3.googleusercontent.com/6E8NcQQijI7tPgtkBcZ8OnES_jVsrEdLpC_mH_1kGQRAb3uSzKUp8HxiGTqnUXucaa4=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Should I Run?",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://shouldirun.in/"
+                },
+                {
+                    "_id": "PH88uoBqfFDDQxxHcA",
+                    "category": "Health&Fitness",
+                    "icon": "https://lh3.googleusercontent.com/pwkKXDthz1rZwbjIyrUdsZDowEPOGmD6p4jBRRy2wKBb-ustqaDwxkUZm7neh6n8nYw=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Care Cards",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://carecards.io/"
+                },
+                {
+                    "_id": "E2elbrafa4DbGbl6nI",
+                    "category": "Health&Fitness",
+                    "icon": "https://lh3.googleusercontent.com/Oah-hVqUU0YkOZOaHyoWIdG9vnmK9QeL5V3Mrtq3Fu7y4mVyK_CTImikf2vekvAWLtM=s180-rw",
+                    "is_pwa": 1,
+                    "label": "Meditate",
+                    "primary_color": "",
+                    "splash_icon": "",
+                    "url": "https://meditation-timer.org/"
+                }
+            ],
+            "category": "Health&Fitness"
+        }
+    ]
+}
